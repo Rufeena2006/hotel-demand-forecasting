@@ -1,0 +1,26 @@
+{
+  "best_model": "Ridge",
+  "features": [
+    "dow",
+    "is_weekend",
+    "month",
+    "doy_sin",
+    "doy_cos",
+    "is_holiday",
+    "is_school_holiday",
+    "local_event",
+    "temperature_c",
+    "rain",
+    "adr",
+    "price_gap",
+    "otb_occupancy_7d",
+    "lag_7",
+    "lag_14",
+    "lag_21",
+    "lag_28",
+    "lag_364",
+    "roll_mean_7",
+    "roll_mean_28",
+    "roll_std_7"
+  ]
+}
